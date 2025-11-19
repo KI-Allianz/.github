@@ -1,5 +1,5 @@
 # KI-Allianz Baden-Württemberg
-we are devoping the AI Data Platform (KI-Datenplattform)
+we are developing the AI Data Platform (KI-Datenplattform)
 
 The **AI Data Platform** is an open, interoperable infrastructure developed by the **KI Alliance Baden-Württemberg**.  
 Its goal: make **high-quality datasets**, **AI models**, and **compute resources** easily accessible to companies, researchers, and public institutions.
