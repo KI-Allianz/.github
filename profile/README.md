@@ -26,7 +26,7 @@ Early adopters can:
 
 The power of the AI Data Platform lies in its set of modular, specialized components that work together to create a seamless user experience. This section explores the four cornerstone releases that form the foundation of this new ecosystem: a reimagined frontend for an intuitive portal experience, a novel semantic search engine for superior discoverability, automated data quality services to ensure trustworthy AI, and a suite of data integration tools to connect critical sectoral data spaces.
 
-We are building our AI Data Platform on top of the field-proven (piveau)[https://piveau.com] ecosystem developed by Fraunhofer FOKUS that again builds on the widely adopted DCAT standard.  
+We are building our AI Data Platform on top of the field-proven [piveau](https://piveau.com) ecosystem developed by Fraunhofer FOKUS that again builds on the widely adopted DCAT standard.  
 
 ### The New Frontend: Piveau.nextjs — A Modern Data Portal Experience
 
