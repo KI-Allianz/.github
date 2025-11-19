@@ -1,5 +1,5 @@
 # KI-Allianz Baden-Württemberg
-we are developing the AI Data Platform (KI-Datenplattform)
+with our partners we are developing the AI Data Platform (KI-Datenplattform)
 
 The **AI Data Platform** is an open, interoperable infrastructure developed by the **KI Alliance Baden-Württemberg**.  
 Its goal: make **high-quality datasets**, **AI models**, and **compute resources** easily accessible to companies, researchers, and public institutions.
@@ -26,9 +26,11 @@ Early adopters can:
 
 The power of the AI Data Platform lies in its set of modular, specialized components that work together to create a seamless user experience. This section explores the four cornerstone releases that form the foundation of this new ecosystem: a reimagined frontend for an intuitive portal experience, a novel semantic search engine for superior discoverability, automated data quality services to ensure trustworthy AI, and a suite of data integration tools to connect critical sectoral data spaces.
 
+We are building our AI Data Platform on top of the field-proven (piveau)[https://piveau.com] ecosystem developed by Fraunhofer FOKUS that again builds on the widely adopted DCAT standard.  
+
 ### The New Frontend: Piveau.nextjs — A Modern Data Portal Experience
 
-At the forefront of the platform is Piveau.nextjs, a modern web interface that serves as the primary gateway for users. This component reimagines the Piveau data portal experience, focusing on discoverability, accessibility, and performance.
+At the forefront of the platform is Piveau.nextjs, a new modern web interface that serves as the primary gateway for users. This component reimagines the Piveau data portal experience, focusing on discoverability, accessibility, and performance.
 
 Its key features include:
 
