@@ -102,6 +102,8 @@ While these core components provide a powerful, ready-to-use platform, their tru
 
 For developers, data scientists, and engineers who wish to programmatically interact with the platform's assets, the python-dcat-ap-hub library offers a streamlined and efficient solution. This Python library is designed for easy downloading and loading of datasets and models directly from the platform's catalog.
 
+<img width="30%"  alt="Integration DCAT-AP hub into data plattform" src="https://github.com/user-attachments/assets/f11f13ce-85cc-4eee-a398-260659cb3d02" />
+
 Its primary functions include:
 
 * Loading Datasets: The library can download and load any dataset whose metadata is provided in the DCAT-AP (JSON-LD) format, simplifying the process of integrating data into custom scripts and applications.
