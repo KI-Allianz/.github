@@ -52,13 +52,17 @@ Its key features include:
 * Enhanced User Experience: It introduces new capabilities designed for modern data workflows. Users can now save and manage User Favorites directly in their browser and navigate to dedicated detail pages for AI models via AI Model Routing.
 * Optimized Performance: Built on a modern technology stack featuring Next.js 15, the interface leverages server-side rendering (SSR) to deliver superior performance. This ensures that valuable datasets and models are not only fast to access for users but are highly discoverable by external search engines, maximizing their reach and impact.
 
-### Smarter Search — Find What You Mean, Not Just What You Type
+### Smart Data Search — Find What You Mean, Not Just What You Type
+#### AI-Supported Dataset Assistant
 🔗 https://github.com/KI-Allianz/DCAT-metadata-assistant
 
 We have integrated a DCAT-aware Chat-Agent that can answer complex questions about data sets in the plattform using the structured Meta Data available.
 
 <img width="50%" alt="Meta Data Chat" src="https://github.com/user-attachments/assets/93a56367-d2c5-4240-9cd0-53a3d10a18c9" />
 
+
+#### Semantic Search Functionality
+🔗 https://github.com/KI-Allianz/semantic-hub-search
 
 A significant upgrade to the platform's discovery engine comes with the Semantic-Hub-Search component. This innovation enhances the existing lexical (keyword-based) search with a powerful semantic function, creating a state-of-the-art hybrid system. Instead of merely matching keywords, the search now understands the conceptual meaning behind a user's query.
 
