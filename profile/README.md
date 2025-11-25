@@ -113,6 +113,7 @@ An essential extension for IoT applications that promotes urban resilience. It e
 While these core components provide a powerful, ready-to-use platform, their true potential is unlocked by the developer community. To that end, we've equipped developers with the following tools to build the next generation of AI applications.
 
 ## For Developers: Tools & Libraries to Build With
+🔗 https://github.com/KI-Allianz/python-dcat-ap-hub
 
 For developers, data scientists, and engineers who wish to programmatically interact with the platform's assets, the python-dcat-ap-hub library offers a streamlined and efficient solution. This Python library is designed for easy downloading and loading of datasets and models directly from the platform's catalog.
 
